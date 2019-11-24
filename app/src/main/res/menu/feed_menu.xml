@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/mnuHighlights"
+        android:title="Highlights" />
+    <item
+        android:id="@+id/mnuScienceAndTechnology"
+        android:title="Science and Technology" />
+    <item
+        android:id="@+id/mnuSpotrs"
+        android:title="Sports" />
+    <item
+        android:id="@+id/mnuEntertainment"
+        android:title="Entertainment" />
+    <item
+        android:id="@+id/mnuCreativity"
+        android:title="Creativity" />
+    <item
+        android:id="@+id/mnuThirdEye"
+        android:title="Third Eye" />
+    <item
+        android:id="@+id/mnuRefresh"
+        android:title="Refresh" />
+</menu>
